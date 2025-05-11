@@ -7,6 +7,7 @@
 // document.write("<h1>Bem vindo " + nome + " </h1>")
 // document.write("<img src='https://th.bing.com/th/id/R.199a514bb4378d42a29c4e31d5368132?rik=1TAdpyrP%2fPPdiA&pid=ImgRaw&r=0' alt='foto homem'>")
 
+///jessica jesus 
 
 //Bloco de codigo que será reutilizado novamente 
 
